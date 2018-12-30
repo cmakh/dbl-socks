@@ -1,5 +1,5 @@
 # dbl-socks
-An NPM module to tell you if dbl has release socks yet
+An NPM module to tell you if dbl has released socks yet
 
 ## Usage
 
