@@ -1,0 +1,29 @@
+{
+  "name": "dbl-socks",
+  "version": "1.0.0",
+  "description": "a simple module to tell you if dbl has released socks yet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmakh/dbl-socks.git"
+  },
+  "keywords": [
+    "socks",
+    "dbl",
+    "discord",
+    "bot",
+    "list",
+    "oliy",
+    "ken",
+    "tonkku"
+  ],
+  "author": "cmakh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmakh/dbl-socks/issues"
+  },
+  "homepage": "https://github.com/cmakh/dbl-socks#readme"
+}
