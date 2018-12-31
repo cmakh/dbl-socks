@@ -7,4 +7,7 @@ An NPM module to tell you if dbl has released socks yet
 const dbl_socks = require('dbl-socks');
 const dblSocks = new dbl_socks();
 console.log(dblSocks.released);
+console.log(dblSocks.forSale);
+console.log(dblSocks.buyLink);
+console.log(dblSocks.giveawayOnly);
 ```

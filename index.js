@@ -1,6 +1,9 @@
 class socks {
 	constructor() {
-		this.released = false;
+		this.released = true;
+		this.forSale = false;
+		this.buyLink = null;
+		this.giveawayOnly = true;
 	}
 }
 
